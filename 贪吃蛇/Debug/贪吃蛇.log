@@ -1,0 +1,25 @@
+﻿生成启动时间为 2019/10/1 22:34:33。
+     1>项目“F:\C_test\小项目\贪吃蛇\贪吃蛇.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\贪吃蛇.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+       Link:
+         E:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C_test\小项目\贪吃蛇\Debug\贪吃蛇.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\贪吃蛇.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\C_test\小项目\贪吃蛇\Debug\贪吃蛇.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C_test\小项目\贪吃蛇\Debug\贪吃蛇.lib" /MACHINE:X86 Debug\console.obj
+         Debug\food.obj
+         Debug\interactive.obj
+         Debug\main.obj
+         Debug\snake.obj
+         Debug\theMap.obj
+         贪吃蛇.vcxproj -> F:\C_test\小项目\贪吃蛇\Debug\贪吃蛇.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"F:\C_test\小项目\贪吃蛇\Debug\贪吃蛇.exe.manifest" /manifest "Debug\贪吃蛇.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\贪吃蛇.unsuccessfulbuild”。
+         正在对“Debug\贪吃蛇.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\C_test\小项目\贪吃蛇\贪吃蛇.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.29
